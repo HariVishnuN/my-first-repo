@@ -1,0 +1,1 @@
+'print("Hello from GitHub!")' | Out-File -FilePath hello.py -Encoding utf8
